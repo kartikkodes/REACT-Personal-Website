@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/REACT-Personal-Website/static/css/main.df60c891.css",
+    "main.js": "/REACT-Personal-Website/static/js/main.f7438848.js",
+    "static/media/daiitb.png": "/REACT-Personal-Website/static/media/daiitb.2efc7d4183856eb7778c.png",
+    "static/media/coursera.png": "/REACT-Personal-Website/static/media/coursera.92fd4b80d11010948db6.png",
+    "static/media/aboutme.jpg": "/REACT-Personal-Website/static/media/aboutme.e37cf2068e9ac96aba50.jpg",
+    "static/media/8085.png": "/REACT-Personal-Website/static/media/8085.c61e6140f6b3a368413a.png",
+    "static/media/python.png": "/REACT-Personal-Website/static/media/python.ccb96d1d9c9f8c6373c9.png",
+    "static/media/me.png": "/REACT-Personal-Website/static/media/me.5b488fb1c1e36229e77e.png",
+    "static/media/Resume_24July.docx": "/REACT-Personal-Website/static/media/Resume_24July.bf8e98a96cc49ec1346c.docx",
+    "index.html": "/REACT-Personal-Website/index.html",
+    "main.df60c891.css.map": "/REACT-Personal-Website/static/css/main.df60c891.css.map",
+    "main.f7438848.js.map": "/REACT-Personal-Website/static/js/main.f7438848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df60c891.css",
+    "static/js/main.f7438848.js"
+  ]
+}
